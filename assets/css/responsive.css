@@ -1,0 +1,38 @@
+@media only screen and (max-width: 464px) {
+    .start-project {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .start-project-box-title {
+        font-size: 32px;
+        font-weight: 500;
+        line-height: 42px;
+    }
+
+    .start-project-box-img {
+        height: 200px;
+        margin-bottom: 140px;
+    }
+
+    .video-bg-background {
+        height: 480px;
+    }
+
+    .section-title {
+        font-size: 32px;
+    }
+
+    .section-subtitle {
+        font-size: 20px;
+        margin-top: 0;
+    }
+
+    .user-action-button {
+        display: none;
+    }
+
+    header {
+        justify-content: center;
+    }
+}
